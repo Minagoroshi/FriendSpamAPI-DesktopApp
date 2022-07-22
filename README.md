@@ -5,7 +5,14 @@
 ## Details
 This is just a simple Desktop App for the paid VRC-Friend-Spam API I made. 
 
-YOU WILL NEED TO PURCHASE A LOGIN | To purchase a login dm tawp#0001 on discord (I will list it on my site in the coming days)
+## Purchasing
+YOU WILL NEED TO PURCHASE A LOGIN
+
+
+IF YOU ARE A USER -> To purchase a login dm tawp#0001 on discord (I will list it on my site in the coming days)
+
+
+IF YOU ARE A DEV WANTING TO INTEGRATE MY API INTO YOUR OWN PRODUCT/SERVICE -> Same process follows, api documnentation can be provided if requested upon purchase.
 
 ## Usage
 This app is pretty straight forward to use, enter the login you paid for, userID of the user to spam, and avatar ID (Optional)
